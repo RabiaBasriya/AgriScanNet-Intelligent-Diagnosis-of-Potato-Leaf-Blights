@@ -1,1 +1,1 @@
-# AgriScanNet: Intelligent-Diagnosis-of-Potato-Leaf-Blights
+# AgriScanNet:Intelligent-Diagnosis-of-Potato-Leaf-Blights
