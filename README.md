@@ -1,2 +1,2 @@
-# Diagnosis-of-Potato-Leaf
+# Pomato Test 
 
